@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+outputs/joined_pandas_*.csv
+.claude/
+*.log
+outputs/*.html

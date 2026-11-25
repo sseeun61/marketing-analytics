@@ -1,0 +1,15 @@
+﻿round,세그먼트,채널,승자톤,승자open,패자톤,패자open,배수
+2,Lost,email,감성,19.21,혜택,17.25,1.11
+2,New,in_app,감성,36.8,혜택,26.35,1.4
+2,Champion,push,VIP,4.91,혜택,3.19,1.54
+2,Loyal,push,혜택,4.21,VIP,3.58,1.18
+2,At-Risk,push,혜택,4.48,긴급,3.23,1.39
+2,Hibernating,push,감성,4.41,혜택,2.68,1.65
+2,Potential,push,혜택,3.27,긴급,2.26,1.44
+3,Lost,email,감성,18.41,혜택,16.64,1.11
+3,New,in_app,감성,35.36,혜택,29.4,1.2
+3,Champion,push,VIP,5.28,감성,3.57,1.48
+3,Loyal,push,혜택,4.77,VIP,4.02,1.19
+3,At-Risk,push,혜택,4.57,긴급,2.97,1.54
+3,Hibernating,push,감성,4.87,혜택,3.19,1.52
+3,Potential,push,감성,3.64,혜택,2.57,1.42
